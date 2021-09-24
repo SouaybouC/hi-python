@@ -1,0 +1,20 @@
+{
+    "Partenaire":[
+        {
+            "Nom": "COULIBALY",
+            "Prenom": "Souaybou",
+            "Age": "22"
+        },
+        {
+            "Nom": "NGUESSIE",
+            "Prenom":"Loic",
+            "Age":"21"
+
+        },
+        {
+            "Nom":"CONFITURE",
+            "Prenom":"Majdi",
+            "Age":"34"
+        }
+    ]
+}
